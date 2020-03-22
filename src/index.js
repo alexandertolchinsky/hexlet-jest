@@ -1,1 +1,1 @@
-export default str => str.split('').reverse().join('q');
+export default str => str.split('').reverse().join('');
